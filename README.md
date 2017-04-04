@@ -1,1 +1,1 @@
-Usando JDBC e SQLite em aplicação Java.
+Projeto usando JDBC e SQLite em aplicação Java.
